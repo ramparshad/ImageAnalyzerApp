@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "899795862670",
+    "firebase_url": "https://pc-storage-ede92-default-rtdb.firebaseio.com",
+    "project_id": "pc-storage-ede92",
+    "storage_bucket": "pc-storage-ede92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899795862670:android:a9b06b5c314d4313bc35df",
+        "android_client_info": {
+          "package_name": "com.example.imageanalyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-aPvLl2EziZiXULRU4TolounHN-ff1qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899795862670:android:1675401364f088b2bc35df",
+        "android_client_info": {
+          "package_name": "com.example.pcstorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-aPvLl2EziZiXULRU4TolounHN-ff1qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
