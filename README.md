@@ -44,4 +44,4 @@ A powerful Android application that analyzes images to extract text, objects, co
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/ramparshad/imageanalyzerapp.git
+git clone https://github.com/ramparshad/ImageAnalyzerApp.git
