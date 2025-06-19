@@ -18,9 +18,11 @@ A powerful Android application that analyzes images to extract text, objects, co
 - 🌙 **Share/delete Response**: Also share and delete the response saved in the History screen
 - 🔐 **Authentication**: using Firebase Authentication
 
-## 📸 Demo
 
 <div align="center">
+## 📸 Demo
+
+
 https://github.com/user-attachments/assets/d8d089db-9b28-4f13-9e71-f830f2a8a95b
 </div>
 
