@@ -21,7 +21,7 @@ A powerful Android application that analyzes images to extract text, objects, co
 
 | Feature | Screenshot |
 |---------|------------|
-| **Main Screen** | ![Main Screen](https://via.placeholder.com/300x600/3a86ff/ffffff?text=Main+Screen) |
+| **Main Screen** | https://github.com/user-attachments/assets/d8d089db-9b28-4f13-9e71-f830f2a8a95b |
 | **Text Analysis** | ![Text Analysis](https://via.placeholder.com/300x600/3a86ff/ffffff?text=Text+Analysis) |
 | **Object Detection** | ![Object Detection](https://via.placeholder.com/300x600/3a86ff/ffffff?text=Object+Detection) |
 
