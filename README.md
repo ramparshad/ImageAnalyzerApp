@@ -39,6 +39,6 @@ https://github.com/user-attachments/assets/d8d089db-9b28-4f13-9e71-f830f2a8a95b
 - Minimum API level 27
 
 🌟 **If you find this project useful, please consider giving it a star!**  
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/image-analyzer?style=social)](https://github.com/yourusername/image-analyzer/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/ramparshad/ImageAnalyzerApp?style=social)](https://github.com/ramparshad/ImageAnalyzerApp/stargazers)
 
 
