@@ -20,8 +20,9 @@ A powerful Android application that analyzes images to extract text, objects, co
 
 ## 📸 Demo
 
+<div align="center">
 https://github.com/user-attachments/assets/d8d089db-9b28-4f13-9e71-f830f2a8a95b
-
+</div>
 
 ## 🛠️ Technologies Used
 
