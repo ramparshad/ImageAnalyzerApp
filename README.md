@@ -1,6 +1,6 @@
 # 🔍 Image Analyzer App
 
-![Banner]([https://th.bing.com/th/id/OIP.Cnk__Sh3jaaPKIt0cEyTwQHaCg?w=1065&h=361&rs=1&pid=ImgDetMain](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)) <!-- Replace with your actual banner image -->
+![Banner](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png) <!-- Replace with your actual banner image -->
 
 A powerful Android application that analyzes images to extract text, objects, colors, and more using Gemini.
 
