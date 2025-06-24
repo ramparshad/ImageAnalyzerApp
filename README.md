@@ -1,6 +1,6 @@
 # 🔍 Image Analyzer App
 
-![Banner]([https://via.placeholder.com/1200x400/3a86ff/ffffff?text=Image+Analyzer+App]([https://th.bing.com/th/id/OIP.Cnk__Sh3jaaPKIt0cEyTwQHaCg?w=1065&h=361&rs=1&pid=ImgDetMain](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png))) <!-- Replace with your actual banner image -->
+![Banner]([https://th.bing.com/th/id/OIP.Cnk__Sh3jaaPKIt0cEyTwQHaCg?w=1065&h=361&rs=1&pid=ImgDetMain](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)) <!-- Replace with your actual banner image -->
 
 A powerful Android application that analyzes images to extract text, objects, colors, and more using Gemini.
 
@@ -20,7 +20,7 @@ A powerful Android application that analyzes images to extract text, objects, co
 
 
 <div align="center">
-## 📸 Demo
+ 📸 Demo
 
 
 https://github.com/user-attachments/assets/d8d089db-9b28-4f13-9e71-f830f2a8a95b
