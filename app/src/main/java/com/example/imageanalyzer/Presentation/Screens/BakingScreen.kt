@@ -168,7 +168,7 @@ fun BakingScreen(
                 selectedImageBitmap = if (Build.VERSION.SDK_INT < 28) {
                     MediaStore.Images.Media.getBitmap(context.contentResolver, it)
                 } else {
-                    val source = ImageDecoder.(context.contentResolver, it)
+                    val source = ImageDecoder.createSource(context.contentResolver, it)
                     ImageDecoder.decodeBitmap(source)
                 }
             } catch (e: Exception) {
