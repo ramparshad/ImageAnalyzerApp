@@ -8,7 +8,6 @@ sealed class Screen(val route: String) {
     object Profile : Screen("profile")
 
     companion object {
-        // Optional
         fun getStartDestination(isLoggedIn: Boolean): String {
             return if (isLoggedIn) Baking.route else Login.route
         }
