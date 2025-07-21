@@ -122,8 +122,8 @@ fun BakingScreen(
     DisposableEffect(lifecycleOwner) {
         val observer = LifecycleEventObserver { _, event ->
             if (event == Lifecycle.Event.ON_DESTROY) {
-                textToSpeech?.stop()
-                textToSpeech?.shutdown()
+                textToSpeech.stop()
+                textToSpeech.shutdown()
             }
         }
         lifecycleOwner.lifecycle.addObserver(observer)
@@ -168,7 +168,7 @@ fun BakingScreen(
                 selectedImageBitmap = if (Build.VERSION.SDK_INT < 28) {
                     MediaStore.Images.Media.getBitmap(context.contentResolver, it)
                 } else {
-                    val source = ImageDecoder.createSource(context.contentResolver, it)
+                    val source = ImageDecoder.(context.contentResolver, it)
                     ImageDecoder.decodeBitmap(source)
                 }
             } catch (e: Exception) {
