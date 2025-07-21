@@ -8,7 +8,7 @@ sealed class Screen(val route: String) {
     object Profile : Screen("profile")
 
     companion object {
-        // Optional: Function to get the start destination based on auth state
+        // Optional: Function to get the start 
         fun getStartDestination(isLoggedIn: Boolean): String {
             return if (isLoggedIn) Baking.route else Login.route
         }
